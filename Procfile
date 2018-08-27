@@ -1,1 +1,1 @@
-web: python scrabble.py 
+bot: python scrabble.py 
